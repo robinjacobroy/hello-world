@@ -1,2 +1,5 @@
 # hello-world
-getting started
+
+
+
+just trying to learn how branching and commiting works..
